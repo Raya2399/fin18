@@ -24,26 +24,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc"
-global.ytname = "YT:ARULL OFC " //ur yt chanel name
-global.socialm = "GitHub: Warikrr" //ur github or insta name
+global.owner = ['6282261065144'] //ur owner number
+global.ownername = "FIN"
+global.ytname = "YT:ALWANGANZ OFFICIAL " //ur yt chanel name
+global.socialm = "GitHub: FIN-MD" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bombdy
-global.botname = "ArullBotz" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
+global.botname = "FIN-MD" //ur bot name
+global.websitex = "https://youtube.com/channel/UCCZFKpk85uGzGdGk9kUZUIA" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
-global.author = "ArullBotz"
+global.author = "FIN"
 global.themeemoji = "📀"
 global.reactmoji = "🗿"
-global.ownertag = ['ArullOfc'] //ur owner tag
-global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
+global.ownertag = ['FIN'] //ur owner tag
+global.ownernummenu = ['6282261065144'] //ur owner number in menu and all
 global.watermark = "ArullBotz" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5"
-global.linkz2 = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"
+global.botscript = "-"
+global.linkz1 = "https://linktr.ee/fin222"
+global.linkz2 = "https://linktr.ee/fin222"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -84,7 +84,7 @@ global.mess = {
     group: '*Khusus Didalam Group*',
     private: '*Khusus Chat Private*',
     bot: '*Khusus Yang Jadibot*',
-    wait: '*Sabar...Orang sabar disayang janda*',
+    wait: '*Sabar...Orang sabar disayang tuhan*',
     linkm: '*Linknya Mana?*',
     error: 'Error!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
