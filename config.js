@@ -41,7 +41,7 @@ global.reactmoji = "🗿"
 global.ownertag = ['FIN'] //ur owner tag
 global.ownernummenu = ['6282261065144'] //ur owner number in menu and all
 global.watermark = "Alfin" //ur watermark
-global.botscript = "-"
+global.botscript = "https://discord.gg/ZKgeymt9"
 global.linkz1 = "https://linktr.ee/fin222"
 global.linkz2 = "https://linktr.ee/fin222"
 
