@@ -6292,7 +6292,7 @@ break
 } )
    console.log(musim_rambutan)
    const xeonytiktoknowm = musim_rambutan.result.nowatermark
-    XeonBotInc.sendMessage(from, { video: { url: xeonytiktoknowm }, caption: "Subscribe ARULL OFC!" }, { quoted: m })
+    XeonBotInc.sendMessage(from, { video: { url: xeonytiktoknowm }, caption: "FIN BOTZZ" }, { quoted: m })
    }
   break
   case 'tiktokaudio':
@@ -6565,7 +6565,7 @@ if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 teks = `Here you go!`
 buffer = `https://api.dapuhy.xyz/api/randomimage/batues?apikey=0gly81wDky`
-XeonBotInc.sendMessage(from, {image:{url:buffer}, caption:"Subscribe ARULL OFC!"}, {quoted:m})
+XeonBotInc.sendMessage(from, {image:{url:buffer}, caption:"FIN BOTZZ"}, {quoted:m})
 break
 case 'ytmp32':
   case 'youtubemp32':{
@@ -6602,7 +6602,7 @@ case 'ytmp32':
       axios.get(`https://tinyurl.com/api-create.php?url=${dl_link}`)
 .then((a) => {
    
-      XeonBotInc.sendMessage(from, { video: { url: dl_link }, caption: "By Aldi Store" }, { quoted: m })
+      XeonBotInc.sendMessage(from, { video: { url: dl_link }, caption: "By FIN BOTZZ" }, { quoted: m })
       })
      
 })
@@ -7451,7 +7451,7 @@ case 'xxart':case 'btsxx':case 'exoxx':case 'elxxxf':case 'lolxxxi':case 'nekoxx
             	            	if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
   buffer = `http://api.lolhuman.xyz/api/random/${command}?apikey=${lolkey}`
-    XeonBotInc.sendMessage(from, {image:{url:buffer}, caption:"Subscribe ARULL OFC"}, {quoted:m})
+    XeonBotInc.sendMessage(from, {image:{url:buffer}, caption:"FIN BOTZZ"}, {quoted:m})
     break
 case 'xxxblowjob':
 case 'xxxyaoi':
@@ -7469,7 +7469,7 @@ case 'xxxanimebellybutton':
             	            	if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
  buffer = `http://api.lolhuman.xyz/api/random/nsfw/${command}?apikey=${lolkey}`
-XeonBotInc.sendMessage(from, {image:{url:buffer}, caption:"Subscribe ARULL OFC"}, {quoted:m})
+XeonBotInc.sendMessage(from, {image:{url:buffer}, caption:"FIN BOTZZ"}, {quoted:m})
 break
 case 'xxxnaruto':
 case 'xxxminato':
@@ -7488,14 +7488,14 @@ if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 reply(mess.wait)
 nye = `http://api.lolhuman.xyz/api/gimage?apikey=${lolkey}&query=${command}`
-XeonBotInc.sendMessage(from, {image:{url:nye}, caption:"Subscribe ARULL OFC!"}, {quoted:m})
+XeonBotInc.sendMessage(from, {image:{url:nye}, caption:"FIN BOTZZ"}, {quoted:m})
 break			
 case 'xxxanjing':
 if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 nye = `http://api.lolhuman.xyz/api/gimage?apikey=${lolkey}&query=anjing`
 reply(mess.wait)
-XeonBotInc.sendMessage(from, {image:{url:nye}, caption:"Subscribe ARULL OFC!"}, {quoted:m})
+XeonBotInc.sendMessage(from, {image:{url:nye}, caption:"FIN BOTZZ"}, {quoted:m})
 break			
 //════════════════════════════//
 case 'mediafire': {
@@ -7578,7 +7578,7 @@ reply(mess.wait)
     ]
   let button2Messages = {
    image: {url:waifudd.data.url},
-   caption:  `Subscribe Channel ARULL OFC!!`,
+   caption:  `FIN BOTZZ`,
   buttons: trapbot,
   headerType: 1
   }     
@@ -7598,7 +7598,7 @@ if (!AntiNsfw) return reply(mess.nsfw)
     ]
   let button3Messages = {
    image: {url:waifudd.data.url},
-   caption:  `Subscribe Channel ARULL OFC!`,
+   caption:  `FIN BOTZZ`,
   buttons: hnekobot,
   headerType: 1
   }      
@@ -7619,7 +7619,7 @@ reply(mess.wait)
     ]
   let button4Messages = {
    image: {url:waifudd.data.url},
-   caption:  `Subscribe Channel ARULL OFC!`,
+   caption:  `FIN BOTZZ`,
   buttons: nwaifubot,
   headerType: 1
   }      
@@ -7638,7 +7638,7 @@ reply(mess.wait)
         ]
       let buttonsssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Subscribe Channel ARULL OFC`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -7669,7 +7669,7 @@ reply(mess.wait)
         ]
       let button1ssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Subscribe Channel ARULL OFC`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -7688,7 +7688,7 @@ reply(mess.wait)
         ]
       let button12ssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Subscribe Channel ARULL OFC!`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -7707,7 +7707,7 @@ if (!m.isGroup) return replay(mess.group)
     ]
   let xx1button3Messages = {
    image: {url:waifudd.data.url},
-   caption:  `Subscribe Channel ARULL OFC!`,
+   caption:  `FIN BOTZZ`,
   buttons: xxhnekobot,
   headerType: 1
   }      
@@ -7725,7 +7725,7 @@ reply(mess.wait)
         ]
       let button112ssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Subscribe Channel ARULL OFC!`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -7744,7 +7744,7 @@ reply(mess.wait)
         ]
       let buttonssMessage = {
        image: {url:waifud.data.url},
-       caption:  `Subscribe Channel ARULL OFC`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
       buttons: wbutsss,
       headerType: 4
@@ -7771,7 +7771,7 @@ reply(mess.wait)
         ]
       let buttonssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Subscribe Channel ARULL OFC`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -7790,7 +7790,7 @@ reply(mess.wait)
         ]
       let buttonsosMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Subscribe Channel ARULL OFC!`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -7809,7 +7809,7 @@ reply(mess.wait)
         ]
       let btutttonssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Subscribe Channel ARULL OFC!`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -7828,7 +7828,7 @@ reply(mess.wait)
         ]
       let xxbuttonssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Subscribe Channel ARULL OFC`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -7847,7 +7847,7 @@ reply(mess.wait)
         ]
       let buttonsTsMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Subscribe Channel ARULL OFC`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -7866,7 +7866,7 @@ reply(mess.wait)
         ]
       let buttonussMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Subscribe Channel ARULL OFC`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -7885,7 +7885,7 @@ reply(mess.wait)
         ]
       let bxxuttonssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Subscribe Channel ARULL OFC`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -7904,7 +7904,7 @@ reply(mess.wait)
         ]
       let buttoxnssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Subscribe Channel ARULL OFC`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -7923,7 +7923,7 @@ reply(mess.wait)
         ]
       let buttonssxMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Subscribe Channel ARULL OFC!`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -7942,7 +7942,7 @@ var wbutsss = [
          ]
       let buttonsesMessage = {
       image: {url:ud.data.url},
-       caption:  `Subscribe Channel ARULL OFC!`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
           buttons: wbutsss,
      headerType: 4
@@ -7961,7 +7961,7 @@ var wbutsss = [
          ]
       let buttonzMessage = {
       image: {url:ud.data.url},
-       caption:  `Subscribe Channel ARULL OFC!`,
+       caption:  `FIN BOTZZ`,
       footer: `${global.botname}`,
           buttons: wbutsss,
      headerType: 4
@@ -7980,7 +7980,7 @@ reply(mess.wait)
     ]
   let button1Messages = {
    image: {url:waifudd.data.url},
-   caption:  `Subscribe Channel ARULL OFC`,
+   caption:  `FIN BOTZZ`,
    footer: `${global.botname}`,
   buttons: wbuttsss,
   headerType: 2
